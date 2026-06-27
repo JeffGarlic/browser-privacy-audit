@@ -25,7 +25,7 @@ Test how trackable my default browser is using the EFF's Cover Your Tracks tool,
 **Fingerprint score:** 18.41 bits of identifying information — unique among 349,076 browsers tested in the past 45 days.
 
 ### Observations
-- Edge with default settings offered zero tracker or ad blocking.
+- Chrome with default settings offered zero tracker or ad blocking.
 - McAfee WebAdvisor was active but provided no privacy benefit — it only flagged potentially dangerous sites, not trackers.
 - A unique fingerprint means any website could identify and track this browser across sessions without using cookies, making cookie-clearing ineffective as a privacy measure.
 
@@ -58,7 +58,7 @@ Brave was chosen because it includes built-in:
 
 ## Summary
 
-| Metric | Edge + McAfee | Brave (default) |
+| Metric | Chrome + McAfee | Brave (default) |
 |---|---|---|
 | Tracking ad blocking | ❌ | ✅ |
 | Invisible tracker blocking | ❌ | ✅ |
