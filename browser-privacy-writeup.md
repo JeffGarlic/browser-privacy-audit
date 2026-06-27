@@ -12,7 +12,7 @@ Test how trackable my default browser is using the EFF's Cover Your Tracks tool,
 
 ---
 
-## Before – Microsoft Edge (default, with McAfee WebAdvisor)
+## Before – Google Chrome (default, with McAfee WebAdvisor)
 
 **Result: Not protected against tracking**
 
