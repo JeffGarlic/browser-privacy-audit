@@ -9,7 +9,7 @@
 ## Objective
 
 Test how trackable my default browser is using the EFF's Cover Your Tracks tool, then apply mitigations and re-test to demonstrate measurable improvement.
-
+ 
 ---
 
 ## Before – Google Chrome (default, with McAfee WebAdvisor)
